@@ -8,6 +8,12 @@ namespace Pank
     {
         private string _account;
         private string _isvalid;
+
+        public ClassBBAN(string account, string isvalid)
+        {
+            _account = account;
+            _isvalid = isvalid;
+        }
     }
 }
 //Sovelluksen tulee tukea suomalaisen BBAN-muotoisen tilinumeron muuntamista perusmuodostaan konekieliseen muotoon 
