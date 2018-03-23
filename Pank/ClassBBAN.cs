@@ -9,10 +9,9 @@ namespace Pank
         private string _account;
         private string _isvalid;
 
-        public ClassBBAN(string account, string isvalid)
+        public ClassBBAN(string account)
         {
             _account = account;
-            _isvalid = isvalid;
         }
     }
 }

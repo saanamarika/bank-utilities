@@ -8,3 +8,4 @@ D:\Dev\bank-utilities\Pank\obj\Debug\netcoreapp1.1\Pank.csproj.CoreCompileInputs
 D:\Dev\bank-utilities\Pank\obj\Debug\netcoreapp1.1\Pank.AssemblyInfo.cs
 D:\Dev\bank-utilities\Pank\obj\Debug\netcoreapp1.1\Pank.dll
 D:\Dev\bank-utilities\Pank\obj\Debug\netcoreapp1.1\Pank.pdb
+D:\Dev\bank-utilities\Pank\obj\Debug\netcoreapp1.1\Pank.AssemblyInfoInputs.cache
